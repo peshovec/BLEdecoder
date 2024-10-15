@@ -22,7 +22,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "decoder.h"
+#include "BLEdecoder.h"
 #ifdef SKBUILD
 #  include "shared/theengs.h"
 #else
